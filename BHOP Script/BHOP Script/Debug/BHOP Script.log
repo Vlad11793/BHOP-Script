@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\arias\Desktop\C++\BHOP Script\BHOP Script\Source.cpp(88,20): error C2664: 'void getProc(char *)': cannot convert argument 1 from 'const char [9]' to 'char *'
+C:\Users\arias\Desktop\C++\BHOP Script\BHOP Script\Source.cpp(88,10): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\arias\Desktop\C++\BHOP Script\BHOP Script\Source.cpp(21,6): message : see declaration of 'getProc'
+C:\Users\arias\Desktop\C++\BHOP Script\BHOP Script\Source.cpp(90,43): error C2664: 'DWORD getMod(LPSTR)': cannot convert argument 1 from 'const char [11]' to 'LPSTR'
+C:\Users\arias\Desktop\C++\BHOP Script\BHOP Script\Source.cpp(90,31): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\arias\Desktop\C++\BHOP Script\BHOP Script\Source.cpp(45,7): message : see declaration of 'getMod'
+C:\Users\arias\Desktop\C++\BHOP Script\BHOP Script\Source.cpp(91,43): error C2664: 'DWORD getMod(LPSTR)': cannot convert argument 1 from 'const char [11]' to 'LPSTR'
+C:\Users\arias\Desktop\C++\BHOP Script\BHOP Script\Source.cpp(91,31): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\arias\Desktop\C++\BHOP Script\BHOP Script\Source.cpp(45,7): message : see declaration of 'getMod'
+C:\Users\arias\Desktop\C++\BHOP Script\BHOP Script\Source.cpp(94,35): error C2065: 'clientDllBase': undeclared identifier
+C:\Users\arias\Desktop\C++\BHOP Script\BHOP Script\Source.cpp(98,15): error C2065: 'clientDllBase': undeclared identifier
+C:\Users\arias\Desktop\C++\BHOP Script\BHOP Script\Source.cpp(100,15): error C2065: 'clientDllBase': undeclared identifier
